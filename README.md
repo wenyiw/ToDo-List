@@ -2,9 +2,6 @@
 
 > My first vue project inspired by instructions from https://github.com/SD-Gaming/Vue2.0_to_do_list-addName-
 
-http://localhost:8080
-
---------Below is vue info------------
 
 ## Build Setup
 
